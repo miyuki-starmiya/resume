@@ -2,6 +2,9 @@
 
 # 個人データ
 氏名 : 上田 健之祐 (Ueda Kennosuke)
+GitHub: https://github.com/KamiHitoe
+Twitter: https://twitter.com/starmiya_miyuki
+Qiita: https://qiita.com/revvve44
 Web : https://www.example.com
 
 # 職務経歴（概要）
