@@ -75,7 +75,7 @@
 ### 創作活動
 
 - 第26回電撃小説大賞応募
-  - [Machine Human](https://docs.google.com/document/d/1jwch3bL-AihswTTeFDndQ5nNzMcFFtfu/edit?usp=sharing&ouid=113232880712177068400&rtpof=true&sd=true)
+  - [作品タイトル: Machine Human](https://docs.google.com/document/d/1jwch3bL-AihswTTeFDndQ5nNzMcFFtfu/edit?usp=sharing&ouid=113232880712177068400&rtpof=true&sd=true)
   - 結果は誠に遺憾ながら1次選考落選となりました
 
 
