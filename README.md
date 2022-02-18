@@ -1,13 +1,16 @@
-職務経歴の概要です。
+# 職務経歴書
 
-# 個人データ
-- 氏名 : 上田 健之祐 (Ueda Kennosuke)
+## 個人データ
+- 氏名: 上田 健之祐 (Ueda Kennosuke)
 - GitHub: https://github.com/KamiHitoe
 - Twitter: https://twitter.com/starmiya_miyuki
 - Qiita: https://qiita.com/revvve44
 - Web : https://www.example.com
 
-# 職務経歴（概要）
+## 職務経歴（概要）
+### 西日本電信電話株式会社（2018/04~）
+
+
 ソフトウェア開発
 家庭用ゲームソフトの開発
 企画 / 制作 : 4年
@@ -23,7 +26,7 @@ Windowsアプリケーション (Win32API, C# / .NET Framework, DirectX, OpenGL)
 エンジニアの採用
 エンジニア（中途・新卒とも）の採用に長く取り組み、書類審査・面接の経験がある。採用目的イベントへの参加・登壇も多数行ってきた。
 
-# プログラミングスキル
+## プログラミングスキル
 Ruby
 1.9.1（2009年）から日常的に利用。通常の業務に必要な読み書きは問題なくできる。
 Ruby on Railsは3系/4系の実務経験あり。5系は趣味プロダクトで利用。Sinatra / Padrinoの実務経験もある。
@@ -36,16 +39,16 @@ C / C++
 Java
 1.4〜5.0を断続的に経験。StrutsによるWebアプリとJ2MEによるフィーチャフォン向けアプリを開発した。
 
-# 執筆記事
+## 執筆記事
 
-## データ分析
+### データ分析
 
-# 業務外活動
+## 業務外活動
 創作活動
 応募実績
 
 
-# 職務経歴 (現職)
+## 職務経歴 (現職)
 クラスメソッド株式会社 (2019-09〜)
 事業開発部
 職位 : チームリライアビリティエンジニア (Team Reliability Engineer)
@@ -60,7 +63,7 @@ Developers.IO 2019 Tokyo
 「3つの「Re」〜ソフトウェアの信頼性を高めるためにぼくたちができること〜」
 https://dev.classmethod.jp/etc/2019-devio-tokyo-what-we-can-do-to-improve-the-reliability-of-the-software/
 
-# 職務経歴 (前職以前)
+## 職務経歴 (前職以前)
 株式会社ドワンゴ (2014/09〜2019/08)
 プロダクト開発
 N予備校
