@@ -21,6 +21,7 @@
     - 新人用にハンズオン形式での研修資料作成
 - ビジネス用回線の販売企画（2年）
   - AI問診スタートアップUbie社との協業
+    - 医療機関向けのNW設計を担当
 
 ## プログラミングスキル
 - Python
@@ -71,10 +72,10 @@
   - yahoo-finance-api2を用いた株価分析記事となります
 
 ## 業務外活動
-###創作活動
+### 創作活動
 
 - 第26回電撃小説大賞応募
-  - https://docs.google.com/document/d/1jwch3bL-AihswTTeFDndQ5nNzMcFFtfu/edit?usp=sharing&ouid=113232880712177068400&rtpof=true&sd=true
+  - [Machine Human](https://docs.google.com/document/d/1jwch3bL-AihswTTeFDndQ5nNzMcFFtfu/edit?usp=sharing&ouid=113232880712177068400&rtpof=true&sd=true)
   - 結果は誠に遺憾ながら1次選考落選となりました
 
 
