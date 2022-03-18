@@ -33,17 +33,16 @@
   - フレームワークとして、Vue2系 / Nuxtをメインで利用
 - Ruby
   - 2系を個人開発のバックエンドとして利用
-  - フレームワークとして、Rails7系を利用
+  - フレームワークとして、Rails6系を利用
 
 ## 個人開発プロダクト
 
 - みんなの投票アプリ「みんなの投票箱」
-  - https://www.example.com
-  - 現在改修中ですので、カスタムドメインではございません
+  - https://www.democratic-voting.com
   - 技術スタック
     - フロントエンド: Vue2系/Nuxt, TypeScript
-    - バックエンド: Rails7系
-    - インフラ: AWS(ECS/Fargate, RDS), Docker
+    - バックエンド: Rails6系
+    - インフラ: AWS(ECS/Fargate, RDS, ELB), Docker
     - テスト: RSpec
     - その他ツール: CircleCI, Terraform
 
