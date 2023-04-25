@@ -2,13 +2,13 @@
 
 ## 個人データ
 - 氏名: 上田 健之祐 (Ueda Kennosuke)
-- GitHub: https://github.com/KamiHitoe
+- GitHub: https://github.com/StarmiyaMiyuki
 - Twitter: https://twitter.com/starmiya_miyuki
 - Qiita: https://qiita.com/revvve44
-- Web : https://www.example.com
+- note: https://note.com/hit_kam
 
 ## 職務経歴
-### 西日本電信電話株式会社（2018/04~）
+### 西日本電信電話株式会社（2018/04~2022/06）
 - スケジュール管理アプリ「シカロ」開発（社内ダブルワーク1年）
   - Python, TwitterAPI, GoogleAppScriptを用いてクローラーを開発
   - Pythonを用いた取り扱いタイトルのトレンド分析
@@ -22,22 +22,43 @@
 - ビジネス用回線の販売企画（2年）
   - AI問診スタートアップUbie社との協業
     - 医療機関向けのNW設計を担当
+### 株式会社スタメン（2022/07~）
+- フルスタックエンジニアとしてtoB向けHR SaaS「TUNAG」開発
+  - アーキテクチャと開発組織: https://tech.stmn.co.jp/entry/2022/02/09/232737
+  - 主にRails, AWS周りを担当
+  - スクラムによるチーム開発
+  - チームプロジェクトオーナーとして、開発仕様の検討・チームの生産性管理を担当
 
 ## プログラミングスキル
-- Python
-  - 3系を日常的に利用。各種APIの操作やスクレイピングによるデータの取得、データの可視化に利用している
-  - 機械学習として、scikit-learnの利用経験あり
-  - 深層学習として、Keras, Chainerの利用経験あり
-- JavaScript / TypeScript
-  - 個人開発のフロントエンドとして利用
-  - フレームワークとして、Vue2系 / Nuxtをメインで利用
 - Ruby
-  - 2系を個人開発のバックエンドとして利用
+  - 2.7系の業務経験あり
   - フレームワークとして、Rails6系を利用
+- Python
+  - 3系を個人利用。各種APIの操作やスクレイピングによるデータの取得、データの可視化に利用
+  - Webフレームワークとして、Flask、FastAPIを個人利用
+  - 機械学習として、scikit-learnの個人利用経験あり
+  - 深層学習として、Keras, Chainerの個人利用経験あり
+- TypeScript/React
+  - TypeScript, Reactの業務経験あり
+- AWS
+  - ECS, RDS, S3, Lambda, CloudWatch, CodePipeline, Athena等の業務経験あり
+- DevOps
+  - CircleCI, Datadogの業務経験あり
+
 
 ## 個人開発プロダクト
 
+- AITuber「桜井 りりか」
+  - Youtube: https://www.youtube.com/@ririkasakurai
+  - Twitter: https://twitter.com/Ririka_AIsister
+  - 技術スタック
+    - 2d_frontend: TypeScript
+    - 3d_frontend: Unity
+    - backend: FastAPI
+    - DB: MongoDB
+
 - みんなの投票アプリ「みんなの投票箱」
+  - **※現在はサービス停止しております**
   - https://www.democratic-voting.com
   - 技術スタック
     - フロントエンド: Vue2系/Nuxt, TypeScript
@@ -47,6 +68,7 @@
     - その他ツール: CircleCI, Terraform
 
 - 雑貨フリマアプリ
+  - **※現在はサービス停止しております**
   - https://caramel-laboratory.web.app/
   - 現在改修中ですので、カスタムドメインではございません
   - 技術スタック
@@ -54,14 +76,14 @@
     - バックエンド: Firebase
     - その他ライブラリ: Stripe, Nodemailer
 
-- 結婚式用クイズアプリ
-  - https://qiita.com/revvve44/items/a904e2f9945ae78f8c55
-  - 身内用に作ったアプリなので、記事のみの掲載となります
 
 
 ## 執筆記事
-### データ分析
+### AITuber
+- [AITuber育成完全入門（冴えないAITuberの育て方）](https://note.com/hit_kam/n/n64162d96e3e9)
+  - AITuberシステム開発の入門記事となります
 
+### データ分析
 - [AIに五等分の花嫁の正妻を判定させてみた](https://qiita.com/revvve44/items/4efe6722986777312b5c)
   - 深層学習ライブラリKerasを用いた画像の分類タスクの記事となります
 - [データで振り返るM-1グランプリ2020](https://qiita.com/revvve44/items/2554526cbf403e3a66ae)
