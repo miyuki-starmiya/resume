@@ -2,79 +2,95 @@
 
 ## 個人データ
 - 氏名: 上田 健之祐 (Ueda Kennosuke)
+  - ハンドルネーム: みゆきP
 - GitHub: https://github.com/StarmiyaMiyuki
-- Twitter: https://twitter.com/starmiya_miyuki
+- X(ex-Twitter): https://twitter.com/starmiya_miyuki
 - Qiita: https://qiita.com/revvve44
 - note: https://note.com/hit_kam
 
 ## 職務経歴
-### 株式会社スタメン（2022/07~）
+### 株式会社スタメン: 2022/07~
 - フルスタックエンジニアとしてtoB向けHR SaaS「TUNAG」開発
-  - アーキテクチャと開発組織: https://tech.stmn.co.jp/entry/2022/02/09/232737
-  - 主にRails, AWS周りを担当
-  - スクラムによるチーム開発
-  - チームプロジェクトオーナーとして、開発仕様の検討・チームの生産性管理を担当
-### 西日本電信電話株式会社（2018/04~2022/06）
-- スケジュール管理アプリ「シカロ」開発（社内ダブルワーク1年）
+  - 技術スタック
+    - Serverside: Ruby on Rails
+    - Frontend: React, TypeScript
+    - Infra: AWS
+    - Middleware: MySQL(Aurora)
+    - DevOps: CircleCI(CI/CD), CloudWatch(Monitoring)
+  - 開発手法
+    - スクラム
+### NTT西日本(西日本電信電話株式会社): 2018/04~2022/06
+- スケジュール管理アプリ「シカロ」開発: 1年
   - Python, TwitterAPI, GoogleAppScriptを用いてクローラーを開発
   - Pythonを用いた取り扱いタイトルのトレンド分析
-- NWエンジニアとして金融機関向けにNW設計（2年）
+- NWエンジニアとして金融機関向けにNW設計: 2年
   - 受託案件の設計
     - Cisco社製ルータの設計
     - Fortigate社製ファイアウォールの設計
   - 新人向けの技術者教育
     - 技術者教育用の環境開発
     - 新人用にハンズオン形式での研修資料作成
-- ビジネス用回線の販売企画（2年）
+- ビジネス用回線の販売企画: 1年
   - AI問診スタートアップUbie社との協業
     - 医療機関向けのNW設計を担当
 
 
 ## プログラミングスキル
 - Ruby
-  - 2.7系の業務経験あり
-  - フレームワークとして、Rails6系を利用
+  - 2.7系3.2系の業務経験あり
+  - フレームワークとして、Rails6系7系を利用
 - Python
   - 3系を個人利用。各種APIの操作やスクレイピングによるデータの取得、データの可視化に利用
-  - Webフレームワークとして、Flask、FastAPIを個人利用
+  - Webフレームワークとして、Flask、FastAPIの個人利用経験あり
   - 機械学習として、scikit-learnの個人利用経験あり
   - 深層学習として、Keras, Chainerの個人利用経験あり
-- TypeScript/React
-  - TypeScript, Reactの業務経験あり
+- TypeScript
+  - Webフレームワークとして、React, Next.jsの業務経験あり
+- Go
+  - Webフレームワークとして、Echoの個人利用経験あり
 - AWS
   - ECS, RDS, S3, Lambda, CloudWatch, CodePipeline, Athena等の業務経験あり
+- GCP
+  - Cloud Run, Cloud Firestore, Cloud Storage, Firebaseの個人利用経験あり
 - DevOps
   - CircleCI, Datadogの業務経験あり
+  - GitHubの個人利用経験あり
 
 
 ## 個人開発プロダクト
 
 - AITuber「桜井 りりか」
+  - 概要
+    - LLM(GPT-4)を応用した対話型AI
   - Youtube: https://www.youtube.com/@ririkasakurai
   - Twitter: https://twitter.com/Ririka_AIsister
   - 技術スタック
     - 2d_frontend: TypeScript
     - 3d_frontend: Unity
-    - backend: FastAPI
-    - DB: MongoDB
+    - Serverside: Python(FastAPI)
+    - Infra: GCP
 
 - みんなの投票アプリ「みんなの投票箱」
+  - 概要
+    - 好きなトピックに対して投票できるWebアプリ
   - **※現在はサービス停止しております**
   - https://www.democratic-voting.com
   - 技術スタック
-    - フロントエンド: Vue2系/Nuxt, TypeScript
-    - バックエンド: Rails6系
-    - インフラ: AWS(ECS/Fargate, RDS, ELB), Docker
-    - テスト: RSpec
-    - その他ツール: CircleCI, Terraform
+    - Frontend: Vue.js2系/Nuxt.js, TypeScript
+    - Serverside: Ruby on Rails6系
+    - Infra: AWS(ECS/Fargate, RDS, ELB), Docker
+    - Testing: RSpec
+    - DevOps: CircleCI, Terraform
 
 - 雑貨フリマアプリ
+  - 概要
+    - 個人出店のWebフリマアプリ
   - **※現在はサービス停止しております**
   - https://caramel-laboratory.web.app/
   - 技術スタック
-    - フロントエンド: Vue3系
-    - バックエンド: Firebase
-    - その他ライブラリ: Stripe, Nodemailer
+    - Frontend: Vue.js3系
+    - Serverside: Firebase
+    - Others: Stripe, Nodemailer
 
 
 
