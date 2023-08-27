@@ -44,7 +44,8 @@
   - Webフレームワークとして、Flask、FastAPIの個人利用経験あり
   - 機械学習として、scikit-learnの個人利用経験あり
   - 深層学習として、Keras, Chainerの個人利用経験あり
-- TypeScript
+- JavaScript
+  - TypeScriptの業務経験あり
   - Webフレームワークとして、React, Next.jsの業務経験あり
 - Go
   - Webフレームワークとして、Echoの個人利用経験あり
@@ -54,7 +55,7 @@
   - Cloud Run, Cloud Firestore, Cloud Storage, Firebaseの個人利用経験あり
 - DevOps
   - CircleCI, Datadogの業務経験あり
-  - GitHubの個人利用経験あり
+  - GitHub Actionsの個人利用経験あり
 
 
 ## 個人開発プロダクト
