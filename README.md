@@ -9,7 +9,7 @@
 - note: https://note.com/hit_kam
 
 ## 職務経歴
-### 株式会社スタメン: 2022/07~
+### 株式会社スタメン: 2022/07 ~ now
 - フルスタックエンジニアとしてtoB向けHR SaaS「TUNAG」開発
   - 技術スタック
     - Serverside: Ruby on Rails
@@ -19,7 +19,7 @@
     - DevOps: CircleCI(CI/CD), CloudWatch(Monitoring)
   - 開発手法
     - スクラム
-### NTT西日本(西日本電信電話株式会社): 2018/04~2022/06
+### NTT西日本(西日本電信電話株式会社): 2018/04 ~ 2022/06
 - スケジュール管理アプリ「シカロ」開発: 1年
   - Python, TwitterAPI, GoogleAppScriptを用いてクローラーを開発
   - Pythonを用いた取り扱いタイトルのトレンド分析
@@ -44,7 +44,7 @@
   - Webフレームワークとして、Flask、FastAPIの個人利用経験あり
   - 機械学習として、scikit-learnの個人利用経験あり
   - 深層学習として、Keras, Chainerの個人利用経験あり
-- JavaScript
+- JavaScript/TypeScript
   - TypeScriptの業務経験あり
   - Webフレームワークとして、Reactの業務経験あり
 - Go
