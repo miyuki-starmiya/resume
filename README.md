@@ -38,7 +38,7 @@
 ## プログラミングスキル
 - Ruby
   - 2.7系3.2系の業務経験あり
-  - フレームワークとして、Rails6系7系を利用
+  - フレームワークとして、Ruby on Rails6系7系を利用
 - Python
   - 3系を個人利用。各種APIの操作やスクレイピングによるデータの取得、データの可視化に利用
   - Webフレームワークとして、Flask、FastAPIの個人利用経験あり
@@ -46,7 +46,7 @@
   - 深層学習として、Keras, Chainerの個人利用経験あり
 - JavaScript
   - TypeScriptの業務経験あり
-  - Webフレームワークとして、React, Next.jsの業務経験あり
+  - Webフレームワークとして、Reactの業務経験あり
 - Go
   - Webフレームワークとして、Echoの個人利用経験あり
 - AWS
