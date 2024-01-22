@@ -1,26 +1,27 @@
 # 職務経歴書
-
 ## 個人データ
 - 氏名: 上田 健之祐 (Ueda Kennosuke)
   - ハンドルネーム: みゆきP
 - GitHub: https://github.com/StarmiyaMiyuki
 - X(ex-Twitter): https://twitter.com/starmiya_miyuki
-- Qiita: https://qiita.com/revvve44
+- Zenn: https://zenn.dev/hitoe_kami
 - note: https://note.com/hit_kam
+- Qiita: https://qiita.com/revvve44
+
 
 ## 職務経歴
 ### 株式会社スタメン: 2022/07 ~ now
-- フルスタックエンジニアとしてtoB向けHR SaaS「TUNAG」開発
+- フルスタックエンジニアとしてtoB向けHR SaaS [TUNAG](https://biz.tunag.jp/lp/tunag04?utm_source=google&utm_medium=cpc&utm_content=tunag-04&utm_campaign=1_brand) 開発
   - 技術スタック
-    - Serverside: Ruby on Rails
+    - Server-side: Ruby on Rails(6系, 7系)
     - Frontend: React, TypeScript
     - Infra: AWS
-    - Middleware: MySQL(Aurora)
-    - DevOps: CircleCI(CI/CD), CloudWatch(Monitoring)
+    - Middleware: MySQL(5.7, 8.0)
+    - DevOps: CircleCI, BugSnag
   - 開発手法
     - スクラム
 ### NTT西日本(西日本電信電話株式会社): 2018/04 ~ 2022/06
-- スケジュール管理アプリ「シカロ」開発: 1年
+- スケジュール管理アプリ `シカロ` 開発: 1年
   - Python, TwitterAPI, GoogleAppScriptを用いてクローラーを開発
   - Pythonを用いた取り扱いタイトルのトレンド分析
 - NWエンジニアとして金融機関向けにNW設計: 2年
@@ -36,39 +37,52 @@
 
 
 ## プログラミングスキル
-- Ruby
-  - 2.7系3.2系の業務経験あり
-  - フレームワークとして、Ruby on Rails6系7系を利用
-- Python
-  - 3系を個人利用。各種APIの操作やスクレイピングによるデータの取得、データの可視化に利用
-  - Webフレームワークとして、Flask、FastAPIの個人利用経験あり
-  - 機械学習として、scikit-learnの個人利用経験あり
-  - 深層学習として、Keras, Chainerの個人利用経験あり
-- JavaScript/TypeScript
-  - TypeScriptの業務経験あり
-  - Webフレームワークとして、Reactの業務経験あり
-- Go
-  - Webフレームワークとして、Echoの個人利用経験あり
-- AWS
-  - ECS, RDS, S3, Lambda, CloudWatch, CodePipeline, Athena等の業務経験あり
-- GCP
-  - Cloud Run, Cloud Firestore, Cloud Storage, Firebaseの個人利用経験あり
+- Server-side
+  - Ruby
+    - 2系3系の業務経験あり
+    - Webフレームワーク: Ruby on Rails6系7系の業務経験あり
+  - Python
+    - 3系の個人利用経験あり
+    - Webフレームワーク: Flask、FastAPIの個人利用経験あり
+    - 機械学習: scikit-learnの個人利用経験あり
+    - 深層学習: Keras, Chainerの個人利用経験あり
+  - Go
+    - Webフレームワーク: Echoの個人利用経験あり
+- Frontend
+  - JavaScript/TypeScript
+    - TypeScriptの業務経験あり
+    - UIライブラリ: Reactの業務経験あり
+- Infra
+  - AWS
+    - ECS, RDS, S3, Lambda, CloudWatch, CodePipeline, Athena等の業務経験あり
+  - GCP
+    - Cloud Run, Cloud Firestore, Cloud Storage, Firebase, Pub/Sub, BigQueryの個人利用経験あり
+  - DB
+    - MySQL: 5.7, 8.0の業務経験あり
+    - PostgreSQL: 個人利用経験あり
+  - IaC
+    - AWS CloudFormation: 業務経験あり
+    - Terraform: 個人利用経験あり
+  - Container
+    - Docker: 業務経験あり
+- API
+  - RESTful API: 業務経験あり
+  - GraphQL: 個人利用経験あり
 - DevOps
   - CircleCI, Datadogの業務経験あり
   - GitHub Actionsの個人利用経験あり
 
 
 ## 個人開発プロダクト
-
 - AITuber「桜井 りりか」
   - 概要
     - LLM(GPT-4)を応用した対話型AI
   - Youtube: https://www.youtube.com/@ririkasakurai
-  - Twitter: https://twitter.com/Ririka_AIsister
+  - X(ex-Twitter): https://twitter.com/Ririka_AIsister
   - 技術スタック
     - 2d_frontend: TypeScript
     - 3d_frontend: Unity
-    - Serverside: Python(FastAPI)
+    - Server-side: Python(FastAPI)
     - Infra: GCP
 
 - みんなの投票アプリ「みんなの投票箱」
@@ -78,7 +92,7 @@
   - https://www.democratic-voting.com
   - 技術スタック
     - Frontend: Vue.js2系/Nuxt.js, TypeScript
-    - Serverside: Ruby on Rails6系
+    - Server-side: Ruby on Rails 6系
     - Infra: AWS(ECS/Fargate, RDS, ELB), Docker
     - Testing: RSpec
     - DevOps: CircleCI, Terraform
@@ -89,10 +103,9 @@
   - **※現在はサービス停止しております**
   - https://caramel-laboratory.web.app/
   - 技術スタック
-    - Frontend: Vue.js3系
-    - Serverside: Firebase
+    - Frontend: Vue.js 3系
+    - Server-side: Firebase
     - Others: Stripe, Nodemailer
-
 
 
 ## 執筆記事
@@ -108,15 +121,3 @@
   - 言語はPython。ライブラリはpandasを利用しております
 - [コロナ前後で伸びた企業を分析してみた【日本編】](https://qiita.com/revvve44/items/c003a1c0ddbfc0e0fef2)
   - yahoo-finance-api2を用いた株価分析記事となります
-
-## 業務外活動
-### 創作活動
-
-- 第26回電撃小説大賞応募
-  - [作品タイトル: Machine Human](https://docs.google.com/document/d/1jwch3bL-AihswTTeFDndQ5nNzMcFFtfu/edit?usp=sharing&ouid=113232880712177068400&rtpof=true&sd=true)
-  - Google Docsではルビの部分が非表示となります。正式版をご希望される場合はご連絡ください
-  - 結果は誠に遺憾ながら1次選考落選となりました
-
-
-
-
