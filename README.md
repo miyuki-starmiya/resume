@@ -2,7 +2,7 @@
 ## 個人データ
 - 氏名: 上田 健之祐 (Ueda Kennosuke)
   - ハンドルネーム: みゆきP
-- GitHub: https://github.com/StarmiyaMiyuki
+- GitHub: https://github.com/miyuki-starmiya
 - X(ex-Twitter): https://twitter.com/starmiya_miyuki
 - Zenn: https://zenn.dev/hitoe_kami
 - note: https://note.com/hit_kam
