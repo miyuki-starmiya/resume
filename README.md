@@ -10,7 +10,18 @@
 
 
 ## 職務経歴
-### 株式会社スタメン: 2022/07 ~ now
+### 株式会社SODA(SODA inc.): 2024/04 ~ now
+- GoエンジニアとしてtoC向けフリマアプリ [スニーカーダンク](https://snkrdunk.com/) 開発
+  - 技術スタック
+    - Server-side: Go:latest
+    - Frontend: React/Vue, TypeScript
+    - Infra: AWS
+    - Middleware: MySQL(5.7, 8.0)
+    - DevOps: GitHub Actions, Sentry
+  - 開発手法
+    - スクラム
+    - Scrum@Scale
+### 株式会社スタメン: 2022/07 ~ 2024/03
 - フルスタックエンジニアとしてtoB向けHR SaaS [TUNAG](https://biz.tunag.jp/lp/tunag04?utm_source=google&utm_medium=cpc&utm_content=tunag-04&utm_campaign=1_brand) 開発
   - 技術スタック
     - Server-side: Ruby on Rails(6系, 7系)
@@ -38,6 +49,9 @@
 
 ## プログラミングスキル
 - Server-side
+  - Go
+    - Webフレームワーク: Ginの業務経験あり
+    - ORM: [gorp](https://github.com/go-gorp/gorp)の業務経験あり
   - Ruby
     - 2系3系の業務経験あり
     - Webフレームワーク: Ruby on Rails6系7系の業務経験あり
@@ -46,8 +60,6 @@
     - Webフレームワーク: Flask、FastAPIの個人利用経験あり
     - 機械学習: scikit-learnの個人利用経験あり
     - 深層学習: Keras, Chainerの個人利用経験あり
-  - Go
-    - Webフレームワーク: Echoの個人利用経験あり
 - Frontend
   - JavaScript/TypeScript
     - TypeScriptの業務経験あり
@@ -61,16 +73,19 @@
     - MySQL: 5.7, 8.0の業務経験あり
     - PostgreSQL: 個人利用経験あり
   - IaC
+    - Terraform: 業務経験あり
     - AWS CloudFormation: 業務経験あり
-    - Terraform: 個人利用経験あり
   - Container
     - Docker: 業務経験あり
 - API
   - RESTful API: 業務経験あり
+  - gRPC: 業務経験あり
   - GraphQL: 個人利用経験あり
 - DevOps
-  - CircleCI, Datadogの業務経験あり
-  - GitHub Actionsの個人利用経験あり
+  - GitHub Actionsの業務経験あり
+  - CircleCIの業務経験あり
+  - Datadogの業務経験あり
+  - Sentryの業務経験あり
 
 
 ## 個人開発プロダクト
