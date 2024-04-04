@@ -86,6 +86,9 @@
   - CircleCIの業務経験あり
   - Datadogの業務経験あり
   - Sentryの業務経験あり
+- BI
+  - BigQuery: 業務経験あり
+  - Redash: 業務経験あり
 
 
 ## 個人開発プロダクト
