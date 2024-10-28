@@ -13,14 +13,19 @@
 ### 株式会社SODA(SODA inc.): 2024/04 ~ now
 - GoエンジニアとしてtoC向けフリマアプリ [スニーカーダンク](https://snkrdunk.com/) 開発
   - 技術スタック
-    - Server-side: Go:latest
+    - Server-side: Go(1.21 - latest)
     - Frontend: React/Vue, TypeScript
     - Infra: AWS
     - Middleware: MySQL(5.7, 8.0)
     - DevOps: GitHub Actions, Sentry
+    - 監視: Datadog
   - 開発手法
     - スクラム
     - Scrum@Scale
+- 基盤改善・リファクタリング
+  - GitHub ActionsのCI/CD高速化
+  - コア機能のリファクタリングおよび再モデリング
+
 ### 株式会社スタメン: 2022/07 ~ 2024/03
 - フルスタックエンジニアとしてtoB向けHR SaaS [TUNAG](https://biz.tunag.jp/lp/tunag04?utm_source=google&utm_medium=cpc&utm_content=tunag-04&utm_campaign=1_brand) 開発
   - 技術スタック
@@ -31,6 +36,7 @@
     - DevOps: CircleCI, BugSnag
   - 開発手法
     - スクラム
+
 ### NTT西日本(西日本電信電話株式会社): 2018/04 ~ 2022/06
 - スケジュール管理アプリ `シカロ` 開発: 1年
   - Python, TwitterAPI, GoogleAppScriptを用いてクローラーを開発
