@@ -23,13 +23,13 @@
   - 開発手法
     - スクラム
     - Scrum@Scale
+- マネジメント
+  - Engineering Manager
+    - 採用、育成、評価
 - 基盤改善・リファクタリング
   - GitHub ActionsのCI/CDパイプライン高速化
   - コア機能のリファクタリング
     - 5000行超の肥大化したコード群を1000行程度にリファクタリング
-- マネジメント
-  - Engineering Manager
-    - 採用、育成、評価
 
 ### 株式会社スタメン: 2022/07 ~ 2024/03
 - フルスタックエンジニアとしてtoB向けHR SaaS [TUNAG](https://biz.tunag.jp/lp/tunag04?utm_source=google&utm_medium=cpc&utm_content=tunag-04&utm_campaign=1_brand) 開発
