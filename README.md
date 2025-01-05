@@ -69,18 +69,19 @@
     - Webフレームワーク: Ruby on Rails6系7系の業務経験あり
   - Python
     - 3系の個人利用経験あり
-    - Webフレームワーク: Flask、FastAPIの個人利用経験あり
+    - Webフレームワーク: FastAPI, Flaskの個人利用経験あり
     - 機械学習: scikit-learnの個人利用経験あり
     - 深層学習: Keras, Chainerの個人利用経験あり
 - Frontend
   - JavaScript/TypeScript
     - TypeScriptの業務経験あり
-    - UIライブラリ: Reactの業務経験あり
+    - ライブラリ・フレームワーク: React, Vue.jsの業務経験あり
 - Infra
   - AWS
-    - ECS, RDS, S3, Lambda, CloudWatch, CodePipeline, Athena等の業務経験あり
+    - ECS, RDS, S3, Lambda, CloudWatch, CodePipeline, Athena, Step Functions等の業務経験あり
   - GCP
-    - Cloud Run, Cloud Firestore, Cloud Storage, Firebase, Pub/Sub, BigQueryの個人利用経験あり
+    - BigQueryの業務利用経験あり
+    - Cloud Run, Cloud Firestore, Cloud Storage, Firebase, Pub/Subの個人利用経験あり
   - DB
     - MySQL: 5.7, 8.0の業務経験あり
     - PostgreSQL: 個人利用経験あり
@@ -96,10 +97,11 @@
 - DevOps
   - GitHub Actionsの業務経験あり
   - CircleCIの業務経験あり
-  - Datadogの業務経験あり
   - Sentryの業務経験あり
+- Monitoring
+  - Datadogの業務経験あり
 - BI
-  - BigQuery: 業務経験あり
+  - Looker Studio: 業務経験あり
   - Redash: 業務経験あり
 
 
