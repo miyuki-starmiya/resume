@@ -1,12 +1,13 @@
 # 職務経歴書
 ## 個人データ
-- 氏名: 上田 健之祐 (Ueda Kennosuke)
+- Name: Kennosuke Ueda
   - ハンドルネーム: みゆきP
-- GitHub: https://github.com/miyuki-starmiya
-- X(ex-Twitter): https://twitter.com/starmiya_miyuki
-- Zenn: https://zenn.dev/hitoe_kami
-- note: https://note.com/hit_kam
-- Qiita: https://qiita.com/revvve44
+- Social
+  - GitHub: https://github.com/miyuki-starmiya
+  - Zenn: https://zenn.dev/hitoe_kami
+  - X(ex-Twitter): https://twitter.com/starmiya_miyuki
+  - note: https://note.com/hit_kam
+  - Qiita: https://qiita.com/revvve44
 
 
 ## 職務経歴
@@ -14,26 +15,31 @@
 - GoエンジニアとしてtoC向けフリマアプリ [スニーカーダンク](https://snkrdunk.com/) 開発
   - 技術スタック
     - Server-side: Go(1.21 - latest)
-    - Frontend: React/Vue, TypeScript
-    - Infra: AWS
+    - Frontend: TypeScript, React/Vue.js
+    - Infra: AWS, Terraform
     - Middleware: MySQL(5.7, 8.0)
     - DevOps: GitHub Actions, Sentry
-    - 監視: Datadog
+    - Monitoring: Datadog
   - 開発手法
     - スクラム
     - Scrum@Scale
 - 基盤改善・リファクタリング
-  - GitHub ActionsのCI/CD高速化
-  - コア機能のリファクタリングおよび再モデリング
+  - GitHub ActionsのCI/CDパイプライン高速化
+  - コア機能のリファクタリング
+    - 5000行超の肥大化したコード群を1000行程度にリファクタリング
+- マネジメント
+  - Engineering Manager
+    - 採用、育成、評価
 
 ### 株式会社スタメン: 2022/07 ~ 2024/03
 - フルスタックエンジニアとしてtoB向けHR SaaS [TUNAG](https://biz.tunag.jp/lp/tunag04?utm_source=google&utm_medium=cpc&utm_content=tunag-04&utm_campaign=1_brand) 開発
   - 技術スタック
     - Server-side: Ruby on Rails(6系, 7系)
-    - Frontend: React, TypeScript
+    - Frontend: TypeScript, React
     - Infra: AWS
     - Middleware: MySQL(5.7, 8.0)
     - DevOps: CircleCI, BugSnag
+    - Monitoring: Datadog
   - 開発手法
     - スクラム
 
@@ -130,18 +136,3 @@
     - Frontend: Vue.js 3系
     - Server-side: Firebase
     - Others: Stripe, Nodemailer
-
-
-## 執筆記事
-### AITuber
-- [AITuber育成完全入門（冴えないAITuberの育て方）](https://note.com/hit_kam/n/n64162d96e3e9)
-  - AITuberシステム開発の入門記事となります
-
-### データ分析
-- [AIに五等分の花嫁の正妻を判定させてみた](https://qiita.com/revvve44/items/4efe6722986777312b5c)
-  - 深層学習ライブラリKerasを用いた画像の分類タスクの記事となります
-- [データで振り返るM-1グランプリ2020](https://qiita.com/revvve44/items/2554526cbf403e3a66ae)
-  - 漫才コンビ錦鯉のネクストブレイクをデータから予見していた記事となります
-  - 言語はPython。ライブラリはpandasを利用しております
-- [コロナ前後で伸びた企業を分析してみた【日本編】](https://qiita.com/revvve44/items/c003a1c0ddbfc0e0fef2)
-  - yahoo-finance-api2を用いた株価分析記事となります
