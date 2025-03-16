@@ -1,7 +1,7 @@
 # 職務経歴書
 ## 個人データ
 - Name: Kennosuke Ueda
-  - ハンドルネーム: みゆきP
+  - ハンドルネーム: miyuki, みゆきP
 - Social
   - GitHub: https://github.com/miyuki-starmiya
   - Zenn: https://zenn.dev/hitoe_kami
@@ -12,40 +12,50 @@
 
 ## 職務経歴
 ### 株式会社SODA(SODA inc.): 2024/04 ~ now
-- GoエンジニアとしてtoC向けフリマアプリ [スニーカーダンク](https://snkrdunk.com/) 開発
+- GoエンジニアとしてtoC向けマーケットプレイス [スニーカーダンク](https://snkrdunk.com/) 開発
   - 技術スタック
-    - Server-side: Go(1.21 - latest)
-    - Frontend: TypeScript, React/Vue.js
+    - Server-side: Go(1.21 ~ latest)
+    - Frontend: TypeScript, Next.js, React(v19), Vue.js
     - Infra: AWS, Terraform
     - Middleware: MySQL(5.7, 8.0)
-    - DevOps: GitHub Actions, Sentry
-    - Monitoring: Datadog
+    - CI/CD: GitHub Actions
+    - Monitoring: Datadog, Sentry
+    - IDE: Cursor, Visual Studio Code
   - 開発手法
     - スクラム
     - Scrum@Scale
 - マネジメント
   - Engineering Manager
-    - 採用、育成、評価
-- 基盤改善・リファクタリング
-  - GitHub ActionsのCI/CDパイプライン高速化
-  - コア機能のリファクタリング
-    - 5000行超の肥大化したコード群を1000行程度にリファクタリング
+    - 育成、評価
+      - BackendチームとFrontendチームの2チームのマネジメント
+      - 1on1, 評価
+      - チームビルディング
+    - 採用
+      - 採用ダッシュボードの可視化
+- 開発
+  - 基盤改善・リファクタリング
+    - GitHub ActionsのCI/CDパイプライン高速化
+    - コア機能のリファクタリング
+      - 5000行超の肥大化したビジネスロジックを1000行程度にリファクタリング
+  - フロントエンドリプレイス
+    - TypeScript利用率とテストカバレッジが低いVue.js(3系)をNext.jsにリプレイス
+    - プロジェクト計画、インフラ設計・構築、コンポーネント開発
 
 ### 株式会社スタメン: 2022/07 ~ 2024/03
 - フルスタックエンジニアとしてtoB向けHR SaaS [TUNAG](https://biz.tunag.jp/lp/tunag04?utm_source=google&utm_medium=cpc&utm_content=tunag-04&utm_campaign=1_brand) 開発
   - 技術スタック
     - Server-side: Ruby on Rails(6系, 7系)
-    - Frontend: TypeScript, React
+    - Frontend: TypeScript, React(v16.0 ~ v18.0)
     - Infra: AWS
     - Middleware: MySQL(5.7, 8.0)
-    - DevOps: CircleCI, BugSnag
-    - Monitoring: Datadog
+    - CI/CD: CircleCI
+    - Monitoring: Datadog, BugSnag
   - 開発手法
     - スクラム
 
 ### NTT西日本(西日本電信電話株式会社): 2018/04 ~ 2022/06
-- スケジュール管理アプリ `シカロ` 開発: 1年
-  - Python, TwitterAPI, GoogleAppScriptを用いてクローラーを開発
+- スケジュール管理アプリ **シカロ** 開発: 1年
+  - Python, TwitterAPI, GoogleAppScriptを用いて独自クローラーを開発
   - Pythonを用いた取り扱いタイトルのトレンド分析
 - NWエンジニアとして金融機関向けにNW設計: 2年
   - 受託案件の設計
@@ -55,18 +65,20 @@
     - 技術者教育用の環境開発
     - 新人用にハンズオン形式での研修資料作成
 - ビジネス用回線の販売企画: 1年
-  - AI問診スタートアップUbie社との協業
+  - AI問診Ubie社との協業
     - 医療機関向けのNW設計を担当
 
 
 ## プログラミングスキル
 - Server-side
   - Go
+    - Version: 1.21 ~ latest
     - Webフレームワーク: Ginの業務経験あり
     - ORM: [gorp](https://github.com/go-gorp/gorp)の業務経験あり
   - Ruby
-    - 2系3系の業務経験あり
-    - Webフレームワーク: Ruby on Rails6系7系の業務経験あり
+    - Version: 2.7 ~ 3.2
+    - Webフレームワーク: Ruby on Rails
+      - Version: 6.1 ~ 7.1
   - Python
     - 3系の個人利用経験あり
     - Webフレームワーク: FastAPI, Flaskの個人利用経験あり
@@ -75,11 +87,18 @@
 - Frontend
   - JavaScript/TypeScript
     - TypeScriptの業務経験あり
-    - ライブラリ・フレームワーク: React, Vue.jsの業務経験あり
+    - ライブラリ・フレームワーク
+      - Reactの業務経験あり
+        - Version: v16.0 ~ v19.0
+        - Next.jsの業務経験あり
+      - Vue.jsの業務経験あり
+- App
+  - Dart/Flutter
+    - 3系の業務経験あり
 - Infra
   - AWS
-    - ECS, RDS, S3, Lambda, CloudWatch, CodePipeline, Athena, Step Functions等の業務経験あり
-  - GCP
+    - ECS, RDS, S3, Lambda, CloudFront, CloudWatch等の業務経験あり
+  - Google Cloud
     - BigQueryの業務利用経験あり
     - Cloud Run, Cloud Firestore, Cloud Storage, Firebase, Pub/Subの個人利用経験あり
   - DB
@@ -94,12 +113,13 @@
   - RESTful API: 業務経験あり
   - gRPC: 業務経験あり
   - GraphQL: 個人利用経験あり
-- DevOps
+    - Server: [gqlgen](https://github.com/99designs/gqlgen)
+- CI/CD
   - GitHub Actionsの業務経験あり
   - CircleCIの業務経験あり
-  - Sentryの業務経験あり
 - Monitoring
   - Datadogの業務経験あり
+  - Sentryの業務経験あり
 - BI
   - Looker Studio: 業務経験あり
   - Redash: 業務経験あり
@@ -112,29 +132,7 @@
   - Youtube: https://www.youtube.com/@ririkasakurai
   - X(ex-Twitter): https://twitter.com/Ririka_AIsister
   - 技術スタック
-    - 2d_frontend: TypeScript
-    - 3d_frontend: Unity
+    - 2D frontend: TypeScript
+    - 3D frontend: Unity
     - Server-side: Python(FastAPI)
-    - Infra: GCP
-
-- みんなの投票アプリ「みんなの投票箱」
-  - 概要
-    - 好きなトピックに対して投票できるWebアプリ
-  - **※現在はサービス停止しております**
-  - https://www.democratic-voting.com
-  - 技術スタック
-    - Frontend: Vue.js2系/Nuxt.js, TypeScript
-    - Server-side: Ruby on Rails 6系
-    - Infra: AWS(ECS/Fargate, RDS, ELB), Docker
-    - Testing: RSpec
-    - DevOps: CircleCI, Terraform
-
-- 雑貨フリマアプリ
-  - 概要
-    - 個人出店のWebフリマアプリ
-  - **※現在はサービス停止しております**
-  - https://caramel-laboratory.web.app/
-  - 技術スタック
-    - Frontend: Vue.js 3系
-    - Server-side: Firebase
-    - Others: Stripe, Nodemailer
+    - Infra: Google Cloud
