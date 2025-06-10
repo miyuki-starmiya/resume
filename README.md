@@ -9,13 +9,24 @@
   - note: https://note.com/hit_kam
   - Qiita: https://qiita.com/revvve44
 
+## ナラティブ
+- WHY I LIVE
+  - ソフトウェアとシステム思考で、人生をより豊かにするため
+- WHAT I CAN
+  - 中規模組織（エンジニア数50人程度）のマネジメント
+  - Frontend/Backend/Infra一気通貫した開発
+  - AIツールを組み込んだ業務プロセス改善
+- HOW I PERFORM
+  - 観察と戦略立案、実行
+  - 設計に重きを置き、速やかに実装とリファクタリングのサイクルを回す
+  - 仮説と検証を基に、ソフトウェア開発および組織開発を行う
 
 ## 職務経歴
 ### 株式会社SODA(SODA inc.): 2024/04 ~ now
 - GoエンジニアとしてtoC向けマーケットプレイス [スニーカーダンク](https://snkrdunk.com/) 開発
   - 技術スタック
     - Server-side: Go(1.21 ~ latest)
-    - Frontend: TypeScript, Next.js, React(v19), Vue.js
+    - Frontend: TypeScript, Next.js(v15 App Router), React(v19), Vue.js
     - Infra: AWS, Terraform
     - Middleware: MySQL(5.7, 8.0)
     - CI/CD: GitHub Actions
@@ -26,20 +37,28 @@
     - Scrum@Scale
 - マネジメント
   - Engineering Manager
-    - 育成、評価
+    - People Management
       - BackendチームとFrontendチームの2チームのマネジメント
       - 1on1, 評価
       - チームビルディング
-    - 採用
-      - 採用ダッシュボードの可視化
+      - 採用KPIのモニタリング、可視化
+    - Technical Management
+      - AI駆動開発の設計・展開
+        - Coding Agent用のRules設計
+        - AI開発プロセス設計
+        - 生産性の可視化
+    - Project Management
+      - Scrum Masterの実践
+      - 見積もり、不確実性の評価、リスク管理
 - 開発
   - 基盤改善・リファクタリング
-    - GitHub ActionsのCI/CDパイプライン高速化
     - コア機能のリファクタリング
       - 5000行超の肥大化したビジネスロジックを1000行程度にリファクタリング
+    - GitHub ActionsのCI/CDパイプライン高速化
   - フロントエンドリプレイス
     - TypeScript利用率とテストカバレッジが低いVue.js(3系)をNext.jsにリプレイス
-    - プロジェクト計画、インフラ設計・構築、コンポーネント開発
+    - プロジェクト計画、インフラ設計・構築、アーキテクチャ設計監修、エコシステム設計監修
+    - コンポーネント開発
 
 ### 株式会社スタメン: 2022/07 ~ 2024/03
 - フルスタックエンジニアとしてtoB向けHR SaaS [TUNAG](https://biz.tunag.jp/lp/tunag04?utm_source=google&utm_medium=cpc&utm_content=tunag-04&utm_campaign=1_brand) 開発
