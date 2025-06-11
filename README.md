@@ -10,13 +10,13 @@
   - Qiita: https://qiita.com/revvve44
 
 ## ナラティブ
-- WHY I LIVE
+- **WHY I LIVE**
   - ソフトウェアとシステム思考で、人生をより豊かにするため
-- WHAT I CAN
+- **WHAT I CAN**
   - 中規模組織（エンジニア数50人程度）のマネジメント
   - Frontend/Backend/Infra一気通貫した開発
   - AIツールを組み込んだ業務プロセス改善
-- HOW I PERFORM
+- **HOW I PERFORM**
   - 観察と戦略立案、実行
   - 設計に重きを置き、速やかに実装とリファクタリングのサイクルを回す
   - 仮説と検証を基に、ソフトウェア開発および組織開発を行う
