@@ -88,60 +88,57 @@
     - 医療機関向けのNW設計を担当
 
 
-## プログラミングスキル
+## スキル
+★★★: 業務利用を通して仕様の細部まで理解しています。技術選定や開発をリードすることが可能です。
+★★: 業務で利用したことがあります。一定水準以上の品質で設計や開発が可能です。
+★: 個人で利用したことがあります。ある程度の開発が可能です。
+
 - Server-side
-  - Go
+  - Go: ★★★
     - Version: 1.21 ~ latest
-    - Webフレームワーク: Ginの業務経験あり
-    - ORM: [gorp](https://github.com/go-gorp/gorp)の業務経験あり
-  - Ruby
+  - Ruby: ★★
     - Version: 2.7 ~ 3.2
-    - Webフレームワーク: Ruby on Rails
+    - Ruby on Rails: ★★
       - Version: 6.1 ~ 7.1
-  - Python
-    - 3系の個人利用経験あり
-    - Webフレームワーク: FastAPI, Flaskの個人利用経験あり
-    - 機械学習: scikit-learnの個人利用経験あり
-    - 深層学習: Keras, Chainerの個人利用経験あり
+  - Python: ★
+    - Version: 3.x
+    - FastAPI: ★
 - Frontend
-  - JavaScript/TypeScript
-    - TypeScriptの業務経験あり
-    - ライブラリ・フレームワーク
-      - Reactの業務経験あり
-        - Version: v16.0 ~ v19.0
-        - Next.jsの業務経験あり
-      - Vue.jsの業務経験あり
+  - JavaScript/TypeScript: ★★
+    - React: ★★
+      - Version: v16.0 ~ v19.0
+      - Next.js: ★★
+        - Version: v13 ~ v15
+    - Vue.js: ★
 - App
-  - Dart/Flutter
-    - 3系の業務経験あり
+  - Dart: ★
+    - Version: 3.x
+    - Flutter: ★
 - Infra
-  - AWS
-    - ECS, RDS, S3, Lambda, CloudFront, CloudWatch等の業務経験あり
+  - AWS: ★★
+    - ECS, RDS, S3, Lambda, CloudFront, CloudWatch等
   - Google Cloud
-    - BigQueryの業務利用経験あり
-    - Cloud Run, Cloud Firestore, Cloud Storage, Firebase, Pub/Subの個人利用経験あり
+    - BigQuery, Looker Studio: ★★
+    - Cloud Run, Cloud Firestore, Cloud Storage, Firebase, Pub/Sub等: ★
   - DB
-    - MySQL: 5.7, 8.0の業務経験あり
-    - PostgreSQL: 個人利用経験あり
+    - MySQL: ★★★
+      - Version: 5.7, 8.0
+    - PostgreSQL: ★
   - IaC
-    - Terraform: 業務経験あり
-    - AWS CloudFormation: 業務経験あり
+    - Terraform: ★★
+    - AWS CloudFormation: ★★
   - Container
-    - Docker: 業務経験あり
+    - Docker: ★★
 - API
-  - RESTful API: 業務経験あり
-  - gRPC: 業務経験あり
-  - GraphQL: 個人利用経験あり
-    - Server: [gqlgen](https://github.com/99designs/gqlgen)
+  - RESTful API: ★★
+  - GraphQL: ★
+  - gRPC: ★
 - CI/CD
-  - GitHub Actionsの業務経験あり
-  - CircleCIの業務経験あり
+  - GitHub Actions: ★★
+  - CircleCI: ★★
 - Monitoring
-  - Datadogの業務経験あり
-  - Sentryの業務経験あり
-- BI
-  - Looker Studio: 業務経験あり
-  - Redash: 業務経験あり
+  - Datadog: ★★
+  - Sentry: ★★
 
 
 ## 個人開発プロダクト
