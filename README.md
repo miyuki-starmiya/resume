@@ -1,7 +1,7 @@
-# 職務経歴書
-## 個人データ
-- Name: Kennosuke Ueda
-  - ハンドルネーム: miyuki, みゆきP
+# My Resume
+## About
+- Engineer Name: miyuki, みゆきP
+  - Real Name: Kennosuke Ueda
 - Social
   - GitHub: https://github.com/miyuki-starmiya
   - Zenn: https://zenn.dev/hitoe_kami
@@ -9,21 +9,21 @@
   - note: https://note.com/hit_kam
   - Qiita: https://qiita.com/revvve44
 
-## ナラティブ
+## Narrative
 - **WHY I LIVE**
   - ソフトウェアとシステム思考で、人生をより豊かにするため
 - **WHAT I CAN**
   - 中規模組織（エンジニア数50人程度）のマネジメント
   - Frontend/Backend/Infra一気通貫した開発
-  - AIツールを組み込んだ業務プロセス改善
+  - AIツールを組み込んだBPR(Business Process Re-engineering)
 - **HOW I PERFORM**
   - 観察と戦略立案、実行
   - 設計に重きを置き、速やかに実装とリファクタリングのサイクルを回す
   - 仮説と検証を基に、ソフトウェア開発および組織開発を行う
 
-## 職務経歴
+## Careers
 ### 株式会社SODA(SODA inc.): 2024/04 ~ now
-- GoエンジニアとしてtoC向けマーケットプレイス [スニーカーダンク](https://snkrdunk.com/) 開発
+- GoエンジニアとしてtoC向けマーケットプレイス [スニーカーダンク](https://snkrdunk.com/) 開発およびマネジメント
   - 技術スタック
     - Server-side: Go(1.21 ~ latest)
     - Frontend: TypeScript, Next.js(v15 App Router), React(v19), Vue.js
@@ -36,20 +36,38 @@
     - スクラム
     - Scrum@Scale
 - マネジメント
+  - VPoE
+    - 組織のリアーキテクチャ
+      - プロジェクト指向組組からチーム指向組織へ
+        - チーム構造やロールの見直し
+        - チーム規約の整備
+        - チーム共通テンプレートの整備
+        - チームインタラクション設計
+    - AI Native組織に向けた組織監視と施策立案
   - Engineering Manager
     - People Management
-      - BackendチームとFrontendチームの2チームのマネジメント
+      - 採用
+        - 採用チームのマネジメント
+        - 採用KPIのモニタリング、可視化
+        - 選考プロセス改善
+        - 技術広報
+        - 配属先決定
+        - 面接ルーブリックの見直し
+        - Job Descriptionの見直し
+        - オンボーディングの継続的改善
       - 1on1, 評価
       - チームビルディング
-      - 採用KPIのモニタリング、可視化
     - Technical Management
+      - 決済基盤チームとFrontendチームの2チームのマネジメント
+        - 決済基盤のモジュラーモノリス化、非同期アーキテクチャ化
+        - フロントエンドリプレイスのプロジェクトオーナー、設計監修
       - AI駆動開発の設計・展開
         - Coding Agent用のRules設計
-        - AI開発プロセス設計
+        - AI駆動開発プロセス設計
         - 生産性の可視化
     - Project Management
       - Scrum Masterの実践
-      - 見積もり、不確実性の評価、リスク管理
+      - 見積もり、不確実性の評価、リスクマネジメント
 - 開発
   - 基盤改善・リファクタリング
     - コア機能のリファクタリング
@@ -59,6 +77,8 @@
     - TypeScript利用率とテストカバレッジが低いVue.js(3系)をNext.jsにリプレイス
     - プロジェクト計画、インフラ設計・構築、アーキテクチャ設計監修、エコシステム設計監修
     - コンポーネント開発
+  - AI Agent System
+    - Claude Codeを大規模プロジェクトで使えるようなシステムに自前実装、組織への展開
 
 ### 株式会社スタメン: 2022/07 ~ 2024/03
 - フルスタックエンジニアとしてtoB向けHR SaaS [TUNAG](https://biz.tunag.jp/lp/tunag04?utm_source=google&utm_medium=cpc&utm_content=tunag-04&utm_campaign=1_brand) 開発
@@ -71,6 +91,10 @@
     - Monitoring: Datadog, BugSnag
   - 開発手法
     - スクラム
+- 開発
+  - TUNAGベネフィットのフルスタック開発
+  - アラートや監視まわりの自動化
+  - クエリのパフォーマンスチューニング
 
 ### NTT西日本(西日本電信電話株式会社): 2018/04 ~ 2022/06
 - スケジュール管理アプリ **シカロ** 開発: 1年
@@ -88,7 +112,7 @@
     - 医療機関向けのNW設計を担当
 
 
-## スキル
+## Skills
 ★★★: 業務利用を通して仕様の細部まで理解しています。技術選定や開発をリードすることが可能です。
 ★★: 業務で利用したことがあります。一定水準以上の品質で設計や開発が可能です。
 ★: 個人で利用したことがあります。ある程度の開発が可能です。
@@ -106,9 +130,9 @@
 - Frontend
   - JavaScript/TypeScript: ★★
     - React: ★★
-      - Version: v16.0 ~ v19.0
+      - Version: v16.0 ~ latest
       - Next.js: ★★
-        - Version: v13 ~ v15
+        - Version: v13 ~ latest
     - Vue.js: ★
 - App
   - Dart: ★
@@ -134,11 +158,13 @@
   - GraphQL: ★
   - gRPC: ★
 - CI/CD
-  - GitHub Actions: ★★
+  - GitHub Actions: ★★★
   - CircleCI: ★★
 - Monitoring
   - Datadog: ★★
   - Sentry: ★★
+- AI
+  - Claude Code: ★★
 
 
 ## 個人開発プロダクト
