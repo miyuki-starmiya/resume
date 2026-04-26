@@ -1,6 +1,8 @@
 # My Resume
+
 ## About
-- Engineer Name: miyuki, みゆきP
+
+- Handle Name: miyuki, みゆきP
   - Real Name: Kennosuke Ueda
 - Social
   - GitHub: https://github.com/miyuki-starmiya
@@ -9,41 +11,31 @@
   - note: https://note.com/hit_kam
   - Qiita: https://qiita.com/revvve44
 
-## Narrative
-- **WHY I LIVE**
-  - ソフトウェアとシステム/戦略思考で、人生をより豊かにするため
-- **WHAT I CAN**
-  - 中規模組織（エンジニア数50人程度）のマネジメント
-  - Frontend/Backend/Infra一気通貫した開発
-  - AIツールを組み込んだBPR(Business Process Re-engineering)
-- **HOW I DO**
-  - 観察と戦略立案、実行
-  - 設計に重きを置き、速やかに実装とリファクタリングのサイクルを回す
-  - 仮説と検証を基に、ソフトウェア開発および組織開発を行う
-
 ## Careers
+
 ### 株式会社SODA(SODA inc.): 2024/04 ~ now
+
 - GoエンジニアとしてtoC向けマーケットプレイス [スニーカーダンク](https://snkrdunk.com/) 開発およびマネジメント
   - 技術スタック
     - Server-side: Go(1.21 ~ latest)
-    - Frontend: TypeScript, Next.js(v15 App Router), React(v19), Vue.js
+    - Frontend: TypeScript, Next.js　App Router(v15 ~ latest), React(v19 ~ latest), Vue.js
     - Infra: AWS, Terraform
     - Middleware: MySQL(5.7, 8.0)
     - CI/CD: GitHub Actions
     - Monitoring: Datadog, Sentry
-    - IDE: Cursor, Visual Studio Code
   - 開発手法
     - スクラム
     - Scrum@Scale
 - Management
-  - VPoE(Lead EM)
+  - Head of Engineering(VPoE)
     - 組織のリアーキテクチャ
-      - プロジェクト指向組組からチーム指向組織へ
+      - プロジェクト指向組組からチーム指向組織へのリアーキテクチャ
         - チーム構造やロールの見直し
         - チーム規約の整備
         - チーム共通テンプレートの整備
         - チームインタラクション設計
-    - AI Native組織に向けた組織監視と施策立案
+    - AI Native組織に向けた開発生産性監視と施策立案
+    - EMの育成・評価
   - Engineering Manager
     - People Management
       - 採用
@@ -82,6 +74,7 @@
     - Claude Codeを大規模プロジェクトで使えるようなシステムに自前実装、組織への展開
 
 ### 株式会社スタメン: 2022/07 ~ 2024/03
+
 - フルスタックエンジニアとしてtoB向けHR SaaS [TUNAG](https://biz.tunag.jp/lp/tunag04?utm_source=google&utm_medium=cpc&utm_content=tunag-04&utm_campaign=1_brand) 開発
   - 技術スタック
     - Server-side: Ruby on Rails(6系, 7系)
@@ -98,6 +91,7 @@
   - クエリのパフォーマンスチューニング
 
 ### NTT西日本(西日本電信電話株式会社): 2018/04 ~ 2022/06
+
 - スケジュール管理アプリ **シカロ** 開発: 1年
   - Python, TwitterAPI, GoogleAppScriptを用いて独自クローラーを開発
   - Pythonを用いた取り扱いタイトルのトレンド分析
@@ -114,6 +108,7 @@
 
 
 ## Skills
+
 ★★★: 業務利用を通して仕様の細部まで理解しています。技術選定や開発をリードすることが可能です。
 ★★: 業務で利用したことがあります。一定水準以上の品質で設計や開発が可能です。
 ★: 個人で利用したことがあります。ある程度の開発が可能です。
@@ -169,6 +164,7 @@
 
 
 ## 個人開発プロダクト
+
 - AITuber「桜井 りりか」
   - 概要
     - LLM(GPT-4)を応用した対話型AI
