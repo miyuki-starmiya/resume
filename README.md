@@ -27,7 +27,7 @@
     - スクラム
     - Scrum@Scale
 - Management
-  - Head of Engineering(VPoE)
+  - Head of Engineering(VPoE): 2026/01 ~
     - 組織のリアーキテクチャ
       - プロジェクト指向組組からチーム指向組織へのリアーキテクチャ
         - チーム構造やロールの見直し
@@ -36,7 +36,7 @@
         - チームインタラクション設計
     - AI Native組織に向けた開発生産性監視と施策立案
     - EMの育成・評価
-  - Engineering Manager
+  - Engineering Manager: 2024/10 ~
     - People Management
       - 採用
         - 採用チームのマネジメント
