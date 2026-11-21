@@ -119,14 +119,14 @@
 
 - 2026
   - 登壇
-    - 2026-11-14: サポーターズ社主催 | [CoLab Conf 2026秋](https://supporterz-seminar.connpass.com/event/406430/)
+    - 2026/11/14: サポーターズ社主催 | [CoLab Conf 2026秋](https://supporterz-seminar.connpass.com/event/406430/)
       - [AI が増えても速くならない 〜組織 AI の道標〜](https://speakerdeck.com/miyuki_starmiya/2026-11-14-ai-not-faster)
-    - 2026-04-14: Findy社主催 | 採用成功企業から学ぶ、面談・選考設計のすゝめ（Findy社加盟企業のみの限定イベントのため非公開）
-    - 2026-03-24: サポーターズ社主催 | [【ランチLT】全エンジニアEM化説](https://supporterz-seminar.connpass.com/event/386127/)
+    - 2026/04/14: Findy社主催 | 採用成功企業から学ぶ、面談・選考設計のすゝめ（Findy社加盟企業のみの限定イベントのため非公開）
+    - 2026/03/24: サポーターズ社主催 | [【ランチLT】全エンジニアEM化説](https://supporterz-seminar.connpass.com/event/386127/)
 - 2025
   - 執筆
-    - 2025-12-26: [Re:ゼロから始めるエンジニア採用](https://note.com/team_soda/n/ne1981f679fe1)
-    - 2025-12-10: [モノリシックな開発組織のリアーキテクチャ](https://zenn.dev/team_soda/articles/9988-rearchitect-monolithic-dev-org)
+    - 2025/12/26: [Re:ゼロから始めるエンジニア採用](https://note.com/team_soda/n/ne1981f679fe1)
+    - 2025/12/10: [モノリシックな開発組織のリアーキテクチャ](https://zenn.dev/team_soda/articles/9988-rearchitect-monolithic-dev-org)
 
 ## Skills
 
