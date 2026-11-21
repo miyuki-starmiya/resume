@@ -7,6 +7,7 @@
 - Social
   - GitHub: https://github.com/miyuki-starmiya
   - Zenn: https://zenn.dev/hitoe_kami
+  - Speaker Deck: https://speakerdeck.com/miyuki_starmiya
   - X(ex-Twitter): https://twitter.com/starmiya_miyuki
   - note: https://note.com/hit_kam
   - Qiita: https://qiita.com/revvve44
@@ -15,26 +16,29 @@
 
 ### 株式会社SODA(SODA inc.): 2024/04 ~ now
 
-- GoエンジニアとしてtoC向けマーケットプレイス [スニーカーダンク](https://snkrdunk.com/) 開発およびマネジメント
+- toC向けマーケットプレイス [スニーカーダンク](https://snkrdunk.com/) の開発およびマネジメント
   - 技術スタック
     - Server-side: Go(1.21 ~ latest)
     - Frontend: TypeScript, Next.js　App Router(v15 ~ latest), React(v19 ~ latest), Vue.js
     - Infra: AWS, Terraform
-    - Middleware: MySQL(5.7, 8.0)
+    - Middleware: MySQL(5.7, 8.0), Valkey
     - CI/CD: GitHub Actions
     - Monitoring: Datadog, Sentry
+    - AI: Claude Code, Cursor, Devin
   - 開発手法
     - スクラム
     - Scrum@Scale
 - Management
-  - Head of Engineering(VPoE): 2026/01 ~
+  - Head of Engineering: 2026/01 ~
+    - [AI Native組織に向けた開発生産性監視と施策立案](https://speakerdeck.com/miyuki_starmiya/2026-11-14-ai-not-faster)
+      - 開発生産性監視基盤の構築
+      - 開発プロセスのSoftware Factory化にむけたAIの組織利用推進
     - 組織のリアーキテクチャ
       - [プロジェクト指向組組からチーム指向組織へのリアーキテクチャ](https://zenn.dev/team_soda/articles/9988-rearchitect-monolithic-dev-org)
         - チーム構造やロールの見直し
         - チーム規約の整備
         - チーム共通テンプレートの整備
         - チームインタラクション設計
-    - AI Native組織に向けた開発生産性監視と施策立案
     - EMの育成・評価
       - エンジニア数50名→100名を目指す上での後進EMの育成
       - 全EMのピープルマネジメントと評価
@@ -63,7 +67,6 @@
       - AI駆動開発の設計・展開
         - Coding Agent用のRules設計
         - AI駆動開発プロセス設計
-        - 開発生産性の可視化
     - Project Management
       - Scrum Masterの実践
       - 見積もり、不確実性の評価、リスクマネジメント
@@ -96,9 +99,9 @@
   - アラートや監視まわりの自動化
   - クエリのパフォーマンスチューニング
 
-### NTT西日本(西日本電信電話株式会社): 2018/04 ~ 2022/06
+### 西日本電信電話株式会社(NTT西日本): 2018/04 ~ 2022/06
 
-- スケジュール管理アプリ **シカロ** 開発: 1年
+- スケジュール管理アプリ シカロ 開発: 1年
   - Python, TwitterAPI, GoogleAppScriptを用いて独自クローラーを開発
   - Pythonを用いた取り扱いタイトルのトレンド分析
 - NWエンジニアとして金融機関向けにNW設計: 2年
@@ -116,12 +119,14 @@
 
 - 2026
   - 登壇
-    - 2026-04-14 Findy社主催　採用成功企業から学ぶ、面談・選考設計のすゝめ（Findy社加盟企業のみの限定イベントのため非公開）
-    - 2026-03-24 サポーターズ社主催　[【ランチLT】全エンジニアEM化説](https://supporterz-seminar.connpass.com/event/386127/)
+    - 2026-11-14: サポーターズ社主催 | [CoLab Conf 2026秋](https://supporterz-seminar.connpass.com/event/406430/)
+      - [AI が増えても速くならない 〜組織 AI の道標〜](https://speakerdeck.com/miyuki_starmiya/2026-11-14-ai-not-faster)
+    - 2026-04-14: Findy社主催 | 採用成功企業から学ぶ、面談・選考設計のすゝめ（Findy社加盟企業のみの限定イベントのため非公開）
+    - 2026-03-24: サポーターズ社主催 | [【ランチLT】全エンジニアEM化説](https://supporterz-seminar.connpass.com/event/386127/)
 - 2025
   - 執筆
-    - 2025-12-26 [Re:ゼロから始めるエンジニア採用](https://note.com/team_soda/n/ne1981f679fe1)
-    - 2025-12-10 [モノリシックな開発組織のリアーキテクチャ](https://zenn.dev/team_soda/articles/9988-rearchitect-monolithic-dev-org)
+    - 2025-12-26: [Re:ゼロから始めるエンジニア採用](https://note.com/team_soda/n/ne1981f679fe1)
+    - 2025-12-10: [モノリシックな開発組織のリアーキテクチャ](https://zenn.dev/team_soda/articles/9988-rearchitect-monolithic-dev-org)
 
 ## Skills
 
